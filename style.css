@@ -278,9 +278,12 @@ body::before {
         height: 50vh;
     }
     .container_progress{
-        height: 30vh;
+        height: 35vh;
     }
     .img_bg {
         height: 15vh;
+    }
+    .container_progress .gb_class .gb_left {
+        top: 17vh;
     }
 }
